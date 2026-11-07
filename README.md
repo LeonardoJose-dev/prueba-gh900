@@ -64,4 +64,7 @@ git push -u origin dia2-codeowners
 
 ---
 
+#Avances
+Editamos el README.md para el día 3
+
 Hecho con 💙 por **Leonardo** · Práctica para GitHub Foundations
