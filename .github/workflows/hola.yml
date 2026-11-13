@@ -1,0 +1,13 @@
+name: Testing
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  hola:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Imprimir hola
+        run: echo "hola"
